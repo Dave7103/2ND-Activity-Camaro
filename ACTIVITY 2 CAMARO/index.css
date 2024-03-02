@@ -1,0 +1,10 @@
+<style>
+        table, th, td{
+            border:1px solid black;
+        }
+        .myDiv{
+            border: 5px outset #ffeb3b;
+            background-color: lightblue;
+            text-align: center;
+        }
+</style>
